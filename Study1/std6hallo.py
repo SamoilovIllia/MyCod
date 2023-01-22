@@ -1,0 +1,5 @@
+nam=input("Iм'я/Name: ")
+fam=input("Призвіще/Forname: ")
+print("Hallo, ",fam,nam,"! Schön, dich zu sehen!")
+ant=input('Antwort: ')
+print("Пока! АхаХАхаХА")
