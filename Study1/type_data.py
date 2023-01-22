@@ -1,0 +1,11 @@
+dein_name = 'Illia'
+print(type(dein_name))
+jahre = input('Wie alt sind Sie?')
+print('Dein Alt ist ', jahre)
+print('Type:', type(jahre))
+print(jahre*2)
+print(bool(jahre))
+jahre = int(jahre)
+print('Type:', type(jahre))
+print(jahre*2)
+print(bool(jahre))
